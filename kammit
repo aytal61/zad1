@@ -1,0 +1,41 @@
+[33me1ab5fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mzad3[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/zad3
+[33me1ab5fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mzad3[m[33m, [m[1;32mmain[m[33m)[m HEAD@{1}: rebase (start): checkout main
+[33m8774f5e[m HEAD@{2}: commit: kammit
+[33m7f5e1b9[m HEAD@{3}: checkout: moving from main to zad3
+[33me1ab5fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mzad3[m[33m, [m[1;32mmain[m[33m)[m HEAD@{4}: commit: s ponyatnim nazvaniem
+[33m7f5e1b9[m HEAD@{5}: checkout: moving from zad2 to main
+[33mef154cf[m[33m ([m[1;32mzad2[m[33m)[m HEAD@{6}: rebase (finish): returning to refs/heads/zad2
+[33mef154cf[m[33m ([m[1;32mzad2[m[33m)[m HEAD@{7}: rebase (pick): klassno3
+[33m836e907[m HEAD@{8}: rebase (pick): klassno2
+[33m23438b2[m HEAD@{9}: rebase (pick): klassno1
+[33m7f5e1b9[m HEAD@{10}: rebase (start): checkout main
+[33mb682359[m HEAD@{11}: checkout: moving from main to zad2
+[33m7f5e1b9[m HEAD@{12}: commit: uhti1
+[33m667587a[m HEAD@{13}: checkout: moving from zad2 to main
+[33mb682359[m HEAD@{14}: commit: vau1
+[33m6a60965[m[33m ([m[1;32mzad1[m[33m)[m HEAD@{15}: checkout: moving from zad1 to zad2
+[33m6a60965[m[33m ([m[1;32mzad1[m[33m)[m HEAD@{16}: rebase (finish): returning to refs/heads/zad1
+[33m6a60965[m[33m ([m[1;32mzad1[m[33m)[m HEAD@{17}: rebase (pick): klassno3
+[33ma7775d1[m HEAD@{18}: rebase (pick): klassno2
+[33m36dcdb2[m HEAD@{19}: rebase (pick): klassno1
+[33m667587a[m HEAD@{20}: rebase (start): checkout main
+[33m782689b[m HEAD@{21}: checkout: moving from main to zad1
+[33m667587a[m HEAD@{22}: commit: kruto3
+[33ma836795[m HEAD@{23}: commit: kruto2
+[33m7cc12cf[m HEAD@{24}: checkout: moving from zad1 to main
+[33m782689b[m HEAD@{25}: commit: klassno3
+[33m0c36965[m HEAD@{26}: commit: klassno2
+[33m196e80c[m HEAD@{27}: commit: klassno1
+[33m7cc12cf[m HEAD@{28}: checkout: moving from main to zad1
+[33m7cc12cf[m HEAD@{29}: commit: kruto1
+[33m19c3dae[m HEAD@{30}: Branch: renamed refs/heads/ltest_branch to refs/heads/main
+[33m19c3dae[m HEAD@{32}: commit (initial): initial commit
+[33m0a4ce72[m HEAD@{33}: Branch: renamed refs/heads/main to refs/heads/zad1
+[33m0a4ce72[m HEAD@{35}: commit: kruto3
+[33mcda8742[m HEAD@{36}: commit: kruto1
+[33m01518e0[m HEAD@{37}: Branch: renamed refs/heads/zad1 to refs/heads/main
+[33m01518e0[m HEAD@{39}: checkout: moving from zad1 to zad1
+[33m01518e0[m HEAD@{40}: commit: klassno3
+[33m669e041[m HEAD@{41}: commit: klassno2
+[33m0013ab2[m HEAD@{42}: commit: klassno
+[33m89d8879[m HEAD@{43}: commit (initial): kruto
